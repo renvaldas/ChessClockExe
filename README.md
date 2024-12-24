@@ -1,5 +1,5 @@
 # ChessClockExe
 
-Download ![](ChessClock.zip) , unzip and run
+Download the [ChessClock.zip](ChessClock.zip) and unzip it to run the application.
 
 ![ChessClock](form.png)
